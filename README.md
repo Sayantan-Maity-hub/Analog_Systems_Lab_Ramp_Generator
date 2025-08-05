@@ -11,6 +11,7 @@ This project implements a **ramp/triangle wave generator** using an Op-Amp integ
 
 ## Circuit Diagram
 ![Circuit Schematic](https://github.com/Sayantan-Maity-hub/Analog_Systems_Lab_Ramp_Generator/blob/main/Ramp%20circuit%20diagram.pdf)
+![Real_circuit_image](https://github.com/Sayantan-Maity-hub/Analog_Systems_Lab_Ramp_Generator/blob/main/Real_circuit.jpg)
 
 ## Simulation Results
 ![Waveform](Simulation_Waveforms.png)
