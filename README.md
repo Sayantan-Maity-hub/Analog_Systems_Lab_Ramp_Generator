@@ -10,7 +10,7 @@ This project implements a **ramp/triangle wave generator** using an Op-Amp integ
 - Components: MCP6004, LM339, resistors, capacitors
 
 ## Circuit Diagram
-![Circuit Schematic]([(https://github.com/Sayantan-Maity-hub/Analog_Systems_Lab_Ramp_Generator/blob/main/Ramp_generator%20circuit%20diagram.jpg)])
+![Circuit Schematic](https://github.com/Sayantan-Maity-hub/Analog_Systems_Lab_Ramp_Generator/blob/main/Ramp_generator%20circuit%20diagram.jpg)
 
 ## Simulation Results
 ![Waveform](Simulation_Waveforms.png)
